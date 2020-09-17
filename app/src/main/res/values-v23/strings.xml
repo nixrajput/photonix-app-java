@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photonix</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_account">Account</string>
+    <string name="start_reg_email_btn_text">Sign Up with Email</string>
+    <string name="start_reg_phone_text">Sign Up with Phone Number</string>
+    <string name="start_or_text">OR</string>
+    <string name="start_thanks_text">Thanks for installing - setup your account now</string>
+    <string name="start_app_name_text">Photonix</string>
+    <string name="start_welcome_text">Welcome To</string>
+    <string name="start_already_have_account">Already have an account?</string>
+    <string name="start_login_text">Log in to account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_text_hint">Log In</string>
+    <string name="email_text_hint">Email</string>
+    <string name="password_text_hint">Password</string>
+    <string name="confirm_pass_hint">Confirm Password</string>
+    <string name="register_btn_text_hint">Sign Up</string>
+    <string name="logout_text_hint">Log Out</string>
+    <string name="name_text_hint">Full Name</string>
+    <string name="dob_text_hint">Birth Date</string>
+    <string name="save_text_hint">Save</string>
+    <string name="gender_text_hint">Gender</string>
+    <string name="male_text_hint">Male</string>
+    <string name="female_text_hint">Female</string>
+    <string name="caption_text_hint">Write a caption here</string>
+    <string name="post_text_hint">Share</string>
+    <string name="display_name_text_hint">Display Name</string>
+    <string name="photos_text_hint">Posts</string>
+    <string name="frnds_text_hint">Friends</string>
+    <string name="requests_text_hint">Requests</string>
+    <string name="edit_profile_text_hint">Edit Profile</string>
+    <string name="post_date_text_hint">Post Date</string>
+    <string name="time_text_hint">Post Time</string>
+    <string name="like_count_text">0 Likes</string>
+    <string name="send_req_text_hint">Send</string>
+    <string name="user_btn_text">All Users</string>
+    <string name="next_btn_hint">Next</string>
+    <string name="register_page_hint"><![CDATA[Enter Your Email & Password]]></string>
+    <string name="tag_send">send</string>
+    <string name="tag_verify">verify</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="cancel_text_hint">Cancel</string>
+    <string name="about_text_btn">About</string>
+    <string name="select_image">Select Image</string>
+    <string name="create_an_username">Create an Username</string>
+    <string name="username">Username</string>
+    <string name="developer_name">Nikhil Kumar Singh</string>
+    <string name="designed_and_n_developed_by">Designed and Developed By</string>
+    <string name="photonix_app">Photonix App</string>
+    <string name="view_profile_text">View Profile</string>
+</resources>
